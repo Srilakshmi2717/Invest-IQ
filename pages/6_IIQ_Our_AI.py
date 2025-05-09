@@ -3,8 +3,8 @@ import requests
 from streamlit_lottie import st_lottie
 import json
 
-st.set_page_config(page_title="IIQ Chatbot", layout="wide")
-st.title("🧠 IIQ Chatbot")
+st.set_page_config(page_title="IIQ - Our AI", layout="wide")
+st.title("🧠 IIQ - Our AI")
 
 def load_lottie_url(url):
     r = requests.get(url)

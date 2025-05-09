@@ -1,0 +1,15 @@
+Dataset:
+Yfinance data:
+
+yfinance (Yahoo Finance API) is a Python library that allows users to retrieve financial data, including stock market prices, historical data, company information, and more, directly from Yahoo Finance. It provides an easy-to-use interface to access stock market data without requiring an API key.
+
+Why Use yfinance?
+- Free & No API Key Required – Unlike many financial APIs, yfinance doesn’t require an API key.
+
+- Fetch Real-Time and Historical Data – Get stock prices, volume, dividends, and more.
+
+- Supports Multiple Tickers – Retrieve data for individual stocks or multiple stocks simultaneously.
+
+- Wide Range of Data – Includes fundamental data, earnings, dividends, balance sheets, and stock splits.
+
+- Integration with Pandas – Returns data as Pandas DataFrames, making it easy to analyze and visualize.
